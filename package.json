@@ -1,0 +1,18 @@
+{
+  "name": "tee-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "china-time": "^0.12.3",
+    "nfc-pcsc": "^0.7.3",
+    "sleep": "^6.1.0",
+    "smartcard": "^1.0.29"
+  }
+}
